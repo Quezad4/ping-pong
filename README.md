@@ -9,5 +9,7 @@ interligada ao HTML e toda a implementação de regras e funcionamento do jogo c
 
 * JavaScript
 
+* Programação Orienta a Objetos (POO) 
+
 * Canvas API
 

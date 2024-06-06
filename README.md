@@ -12,9 +12,3 @@ interligada ao HTML e toda a implementação de regras e funcionamento do jogo c
 * Programação Orienta a Objetos (POO) 
 
 * Canvas API
-
-
-# kadasjdlask
-
-# mais uma alteração
-
